@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Faizan-Zakir/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&lines=Always+learning+new+things;Programming+is+%F0%9F%A4%8D;I%27m+currently+learning+DSA;Reach+me%3A+INSTA%3A+(%40Faizan._.zakir._))](https://git.io/typing-svg)"></a>
+  <a href="https://github.com/Sidhant-raj/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Programming+is+🤍;I%27m+currently+learning+DSA;Reach+me+INSTA%3A+(%40Faizan._.zakir)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
